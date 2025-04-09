@@ -10,7 +10,7 @@ MIN_YEARS_WITH_BANK_ACCOUNT = 3
 # Get the customer's name and the amount of money they have
 customer_name = input("Enter your name: ")  
 
-money_in_bank_account = float(input("Enter the amount of money in your bank account: "))
+money_in_bank_account = (input("Enter the amount of money in your bank account: "))
 
 # Check if the customer has sufficient funds to purchase the items
 
